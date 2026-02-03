@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/votre-username/ErgonTrack)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[ErgonTrack](https://github.com/SammyPiller33/ErgonTrack)
+[https://github.com/SammyPiller33/ErgonTrack](https://roadmap.sh/projects/task-tracker)
 
 A simple command-line task manager written in Python.
 
